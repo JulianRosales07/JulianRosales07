@@ -1,24 +1,95 @@
-Hola ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My nombre es Julian Rosales
-======================================================================================================================================
 
-Ingeniero de sistemas y desarrollador web
------------------------------------------
+# ¡Hola! Soy Julián Rosales 👨‍💻  
+<p align="center">
+    <img src="https://komarev.com/ghpvc/?username=JulianRosales07&style=plastic&color=blueviolet" alt="Profile Views"/>
+</p>
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
-Llevo tres años aprendiendo a programar, con un especial interés en el frontend. He estado profundizando en React y TypeScript para el desarrollo web, tecnologías que me permiten crear interfaces dinámicas y eficientes. Me apasiona aprender algo nuevo cada día, lo que me ha motivado a explorar también el backend, dedicando esfuerzo a adquirir conocimientos en lenguajes y tecnologías de este ámbito. Estoy comprometido/a a seguir creciendo profesionalmente, aportando soluciones sólidas y eficientes que contribuyan al éxito de cualquier proyecto.
+---
+### Ingeniero de Sistemas | Desarrollador Web Frontend y Fullstack en formación
 
-* 🌍  I'm based in Colombia
-* ✉️  You can contact me at [julianrosales0703@hotmail.com](mailto:julianrosales0703@hotmail.com)
-* 🧠  I'm learning Estoy inmerso en el aprendizaje de tecnologías clave para el desarrollo web, como React, TypeScript, Node.js y Next.js. Estas herramientas me permiten construir aplicaciones modernas y eficientes, y estoy dedicando tiempo a dominarlas para mejorar mis habilidades.
-* 🤝  I'm open to collaborating on Me interesa colaborar en proyectos interesantes que me desafíen y me permitan seguir aprendiendo. Busco oportunidades donde pueda aplicar mis conocimientos en frontend y explorar nuevas áreas, aportando valor mientras continúo mi crecimiento profesional.
-
-### Skills
+<img align="right" alt="Julián Rosales" height="160px" src="https://avatars.githubusercontent.com/u/142527675?v=4" />
 
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" title="Python"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" title="TailwindCSS"/></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" title="Vite"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" title="Firebase"/></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" title="Figma"/></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" title="Linux"/></a>
+Apasionado por la tecnología y el desarrollo web, llevo más de tres años aprendiendo, creando y mejorando soluciones digitales.  
+Mi enfoque principal está en el **frontend**, trabajando con **React** y **TypeScript** para construir interfaces modernas, accesibles y eficientes.
+
+También estoy incursionando en el **backend** con tecnologías como **Node.js**, **Express** y **MongoDB**, lo que me permite desarrollar soluciones integrales y completas.
+
+---
+### ✨ Sobre mí
+
+- 🌍 Vivo en **Colombia**  
+- 📫 Escríbeme: [julianrosales0703@hotmail.com](mailto:julianrosales0703@hotmail.com)  
+- 🚀 Aprendiendo: **Next.js**, **Node.js**, **MongoDB**, **Pruebas**, y más del ecosistema web moderno  
+- 🤝 Me interesan proyectos que representen un reto y me impulsen a crecer  
+- 📚 Aprendiz de por vida  
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+
+<hr/>
+
+<p align="center">
+  <!-- Lenguajes -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="48" height="48"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="48" height="48"/>
+  <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" alt="Tailwind CSS" width="48" height="48"/>
+  
+  <!-- Backend y DB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48"/>
+  
+  <!-- Herramientas -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vite/vite-original.svg" alt="Vite" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="Firebase" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="48" height="48"/>
+</p>
+
+<hr/>
+
+<p align="center">
+  <img src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif" width="300" alt="Coding GIF" style="border-radius: 12px;" />
 </p>
 
 
-### Socials
+---
 
-<p align="left"> <a href="https://www.github.com/JulianRosales07" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="http://www.instagram.com/julian_rosales.07/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" alt="Instragram" title="Instragram" /> </picture> </a></p>
+### 🌐 Redes Sociales
+
+<hr/>
+
+<p align="center">
+  <a href="https://github.com/JulianRosales07" target="_blank" title="GitHub">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="40" alt="GitHub" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://instagram.com/julian_rosales.07" target="_blank" title="Instagram">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="40" alt="Instagram" />
+  </a>
+</p>
+
+
+---
+
+### 🙌 ¡Gracias por visitar mi perfil!
+
+Si te interesa trabajar conmigo, colaborar en un proyecto o simplemente quieres charlar sobre tecnología,  
+**escríbeme** o **conectemos**. Estoy siempre listo para aprender, compartir y construir cosas increíbles 🚀
+
+---
+<p align="center">
+  Hecho con ❤️ por <strong>Julián Rosales</strong> · © 2025  
+</p>
